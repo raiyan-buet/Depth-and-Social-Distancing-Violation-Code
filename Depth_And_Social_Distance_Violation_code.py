@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Importing all necessary libraries here
 from scipy.spatial import distance as dist #importing distance from scipy for computing Euclidean distance in matrix form
 import numpy as np 
